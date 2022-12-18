@@ -19,3 +19,4 @@ def fib(n):
 
 if __name__ == "__main__":
     print(fib(15))
+    print(fib(20))
